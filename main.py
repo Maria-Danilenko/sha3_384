@@ -32,7 +32,7 @@ if __name__ == '__main__':
     symbols = ['1', '0', '#']
 
     # Open file
-    file = open('matrix.txt', mode='r')
+    file = open('matrix1.txt', mode='r')
     message = file.read()
     file.close()
 
